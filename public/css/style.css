@@ -1,0 +1,22 @@
+body{
+    width: 100%;
+    height:100vh;
+    background-image: url(images/Berry_Strawberry_Raspberry_Blueberries_Gray_551158_1280x799.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.gazou{
+    width: 300px;
+}
+
+.recipes{
+    border-width: 5px;
+    border-style: groove;
+}
+
+h1 {
+    font-size: 80px;
+}
